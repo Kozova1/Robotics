@@ -1,3 +1,3 @@
 # Robotics
 Madaim School's Robotics repo
-## Please read CONTRIBUTING.MD BEFORE COMMITING ANYTHING HERE!
+## Please read [CONTRIBUTING.md](CONTRIBUTING.md) BEFORE COMMITING ANYTHING HERE!
